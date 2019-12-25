@@ -141,30 +141,180 @@ Udacity Topics
   20. Outro
 
 ## Naive Bayes
+  1. Intro
+  2. Guess the Person
+  3. Known and Inferred
+  4. Guess the Person Now
+  5. Bayes Theorem
+  6. Quiz: False Positives
+  7. Solution: False Positives
+  8. Bayesian Learning 1
+  9. Bayesian Learning 2
+  10. Bayesian Learning 3
+  11. Naive Bayes Algorithm 1
+  12. Naive Bayes Algorithm 2
+  13. Building a Spam Classifier
+  14. Project
+  15. Spam Classifier - Workspace
+  16. Outro
 
 ## Support Vector Machines
+  1. Intro
+  2. Which line is better?
+  3. Minimizing Distances
+  4. Error Function Intuition
+  5. Perceptron Algorithm
+  6. Classification Error
+  7. Margin Error
+  8. (Optional) Margin Error Calculation
+  9. Error Function
+  10. The C Parameter
+  11. Polynomial Kernel 1
+  12. Polynomial Kernel 2
+  13. Polynomial Kernel 3
+  14. RBF Kernel 1
+  15. RBF Kernel 2
+  16. RBF Kernel 3
+  17. SVMs in sklearn
+  18. Outro
 
 ## Ensemble Methods
-
-## Supervised Learning Assessment
-
-## Supervised Learning Project
+  1. Intro
+  2. Bagging
+  3. AdaBoost
+  4. Weighting the Data
+  5. Weighting the Models 1
+  6. Weighting the Models 2
+  7. Weighting the Models 3
+  8. Combining the Models
+  9. AdaBoost in sklearn
+  10. Resources
+  11. Outro
 
 ## Clustering
+  1. Introduction
+  2. Unsupervised Learning
+  3. Clustering Movies
+  4. Quiz: How Many Clusters?
+  5. Quiz: Match Points with Clusters
+  6. Quiz: Optimizing Centers (Rubber Bands)
+  7. Quiz: Moving Centers 2
+  8. Quiz: Match Points (again)
+  9. Handoff to Katie
+  10. Quiz: K-Means Cluster Visualization
+  11. K-Means Clustering Visualization 2
+  12. K-Means Clustering Visualization 3
+  13. Sklearn
+  14. Some challenges of k-means
+  15. Quiz: Limitations of K-Means
+  16. Quiz: Counterintuitive Clusters
+  17. Quiz: Counterintuitive Clusters 2
 
 ## Clustering Mini-Project
 
 ## Hierarchical and Density-based Clustering
+  1. K-means considerations
+  2. Overview of other clustering methods
+  3. Hierarchical clustering: single-link
+  4. Examining single-link clustering
+  5. Complete-link
+  6. Hierarchical clustering implementation
+  7. [Lab] Hierarchical clustering
+  8. [Lab Solution] Hierarchical Clustering
+  9. HC examples and applications
+  10. Quiz: [Quiz] Hierarchical clustering
+  11. DBSCAN
+  12. DBSCAN implementation
+  13. [Lab] DBSCAN
+  14. [Lab Solution] DBSCAN
+  15. DBSCAN examples & applications
+  16. Quiz: [Quiz] DBSCAN
 
 ## Gaussian Mixture Models and Clustering Validation
+  1. Intro
+  2. Gaussian Mixture Model (GMM) Clustering
+  3. Gaussian Distribution in One Dimension
+  4. GMM Clustering in One Dimension
+  5. Gaussian Distribution in 2D
+  6. GMM in 2D
+  7. Quiz: Gaussian Mixtures
+  8. Overview of The Expectation Maximization (EM) Algorithm
+  9. Expectation Maximization Part 1
+  10. Expectation Maximization Part 2
+  11. Visual Example of EM Progress
+  12. Quiz: Expectation Maximization
+  13. GMM Implementation
+  14. GMM Examples & Applications
+  15. Cluster Analysis Process
+  16. Cluster Validation
+  17. External Validation Indices
+  18. Quiz: Adjusted Rand Index
+  19. Internal Validation Indices
+  20. Quiz: Silhouette Coefficient
+  21. GMM & Cluster Validation Lab
+  22. GMM & Cluster Validation Lab Solution
 
 ## Feature Scaling
+ Back to Quiz
+  1. Quiz: Chris's T-Shirt Size (Intuition)
+  2. Quiz: A Metric for Chris
+  3. Quiz: Height + Weight for Cameron
+  4. Quiz: Sarah's Height + Weight
+  5. Quiz: Chris's Shirt Size by Our Metric
+  6. Comparing Features with Different Scales
+  7. Quiz: Feature Scaling Formula Quiz 1
+  8. Quiz: Feature Scaling Formula Quiz 2
+  9. Quiz: Feature Scaling Formula Quiz 3
+  10. Quiz: Min/Max Rescaler Coding Quiz
+  11. Min/Max Scaler in sklearn
+  12. Quiz: Quiz on Algorithms Requiring Rescaling
 
 ## PCA
+  1. Quiz: Data Dimensionality
+  2. Quiz: Trickier Data Dimensionality
+  3. Quiz: One-Dimensional
+  4. Quiz: Slightly Less Perfect Data
+  5. Quiz: Trickiest Data Dimensionality
+  6. PCA for Data Transformation
+  7. Quiz: Center of a New Coordinate System
+  8. Quiz: Principal Axis of New Coordinate System
+  9. Quiz: Second Principal Component of New System
+  10. Quiz: Practice Finding Centers
+  11. Quiz: Practice Finding New Axes
+  12. Quiz: Which Data is Ready for PCA
+  13. Quiz: When Does an Axis Dominate
+  14. Quiz: Measurable vs. Latent Features Quiz
+  15. Quiz: From Four Features to Two
+  16. Quiz: Compression While Preserving Information
+  17. Quiz: Composite Features
+  18. Quiz: Maximal Variance
+  19. Quiz: Advantages of Maximal Variance
+  20. Quiz: Maximal Variance and Information Loss
+  21. Info Loss and Principal Components
+  22. Quiz: Neighborhood Composite Feature
+  23. PCA for Feature Transformation
+  24. Quiz: Maximum Number of PCs Quiz
+  25. Review/Definition of PCA
+  26. Applying PCA to Real Data
+  27. Quiz: PCA on the Enron Finance Data
+  28. PCA in sklearn
+  29. When to Use PCA
+  30. Quiz: PCA for Facial Recognition
+  31. Eigenfaces Code
 
 ## PCA Mini Project
 
 ## Random Projection and ICA
+  1. Random Projection
+  2. Quiz: Random Projection
+  3. Random Projection in sklearn
+  4. Independent Component Analysis (ICA)
+  5. FastICA Algorithm
+  6. Quiz: ICA
+  7. ICA in sklearn
+  8. [Lab] Independent Component Analysis
+  9. [Solution] Independent Component Analysis
+  10. ICA Applications
 
 ## Unsupervised Learning Assessment
 
