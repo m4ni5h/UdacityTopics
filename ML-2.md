@@ -40,6 +40,13 @@
   29. Outro
 
 ## Cloud Computing
+  1. AWS Overview
+  2. Create an AWS Account
+  3. Apply Credits
+  4. Get Access to GPU Instances
+  5. Launch an Instance
+  6. Login to the Instance
+  7. More Resources
 
 ## Deep Neural Networks
 
