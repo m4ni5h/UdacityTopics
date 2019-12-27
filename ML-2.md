@@ -49,6 +49,35 @@
   7. More Resources
 
 ## Deep Neural Networks
+  1. Non-linear Data
+  2. Continuous Perceptrons
+  3. Non-Linear Models
+  4. Neural Network Architecture
+  5. Feedforward
+  6. Backpropagation
+  7. Keras
+  8. Pre-Lab: Student Admissions in Keras
+  9. Lab: Student Admissions in Keras
+  10. Training Optimization
+  11. Early Stopping
+  12. Regularization
+  13. Regularization 2
+  14. Dropout
+  15. Local Minima
+  16. Vanishing Gradient
+  17. Other Activation Functions
+  18. Batch vs Stochastic Gradient Descent
+  19. Learning Rate Decay
+  20. Random Restart
+  21. Momentum
+  22. Optimizers in Keras
+  23. Error Functions Around the World
+  24. Neural Network Regression
+  25. Neural Networks Playground
+  26. Mini Project Intro
+  27. Pre-Lab: IMDB Data in Keras
+  28. Lab: IMDB Data in Keras
+  29. Outro
 
 ## Convolution Neural Networks
 
